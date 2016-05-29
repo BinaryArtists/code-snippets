@@ -2,7 +2,7 @@
 // Table view data source methods
 //
 // IDECodeSnippetCompletionPrefix: tableviewdatasource
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [Class Implementation]
 // IDECodeSnippetIdentifier: DFE5E081-043B-4C5E-83EA-93DB6433BFCF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

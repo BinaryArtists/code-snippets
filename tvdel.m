@@ -2,7 +2,7 @@
 // Table view delegate
 //
 // IDECodeSnippetCompletionPrefix: tableviewdelegate
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [Class Implementation]
 // IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

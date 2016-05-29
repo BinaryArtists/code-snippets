@@ -2,7 +2,7 @@
 // Declare strong reference to weak reference
 //
 // IDECodeSnippetCompletionPrefix: __strong
-// IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: C746134B-DE81-40F1-BFE7-C964CCA28CCA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

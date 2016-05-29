@@ -40,3 +40,15 @@ step 2、 cd SourceCode
 step 3、 xcodesnippet install xxx.m
 Thanks matt's Ruby Tool: xcodesnippet.
 ```
+
+## 完成域
+
+1. All
+- Class Implementation
+- Class Interface Method
+- Class Interface Variables
+2. Code Expression
+3. Function and Method
+4. Preprocesser Directive
+5. String or Comment
+6. Top

@@ -2,7 +2,7 @@
 // Test method
 //
 // IDECodeSnippetCompletionPrefix: test
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [Class Implementation]
 // IDECodeSnippetIdentifier: 0A6575F5-AC16-4FE0-ADA9-9416B46FE771
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

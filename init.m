@@ -2,7 +2,7 @@
 // Designated incantation for your designated initializers
 //
 // IDECodeSnippetCompletionPrefix: _init
-// IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: 49B1515F-0117-414D-96EC-EF46C45D8E8E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1

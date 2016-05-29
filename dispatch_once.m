@@ -2,7 +2,7 @@
 // Dispatch to do work once in the lifetime of the application
 //
 // IDECodeSnippetCompletionPrefix: dispatch_once
-// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: 549D23F6-65A6-4933-ADF9-3DEBA8B4A873
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1

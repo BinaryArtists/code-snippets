@@ -2,7 +2,7 @@
 // Dispatch to do work in the background, and then to the main queue with the results
 //
 // IDECodeSnippetCompletionPrefix: dispatch_async
-// IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: DEC41034-A04D-4B8F-AB2E-9F2ED3961D6E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

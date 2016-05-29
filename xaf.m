@@ -2,7 +2,7 @@
 // Assert false for XCTest
 //
 // IDECodeSnippetCompletionPrefix: xaf
-// IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: E1170879-DFF6-4B8B-8F41-8CAF6ECAC8DD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

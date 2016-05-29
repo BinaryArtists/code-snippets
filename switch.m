@@ -2,7 +2,7 @@
 // Switch statement
 //
 // IDECodeSnippetCompletionPrefix: switch
-// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: 157EECCA-8830-40AE-8361-BEEBDFCA1CE5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1

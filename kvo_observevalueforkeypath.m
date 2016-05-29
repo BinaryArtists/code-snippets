@@ -2,7 +2,7 @@
 // Key-value observing
 //
 // IDECodeSnippetCompletionPrefix: observeValueForKeyPath
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [Class Implementation]
 // IDECodeSnippetIdentifier: 8717E99C-3709-4CF4-8C94-D1EBD097C871
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1

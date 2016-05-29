@@ -2,7 +2,7 @@
 // Initializes a view frame inside a code block
 //
 // IDECodeSnippetCompletionPrefix: setframe
-// IDECodeSnippetCompletionScopes: [Function or Method]
+// IDECodeSnippetCompletionScopes: [Code Expression]
 // IDECodeSnippetIdentifier: 15997B7C-9791-4FD7-8066-705035419120
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1

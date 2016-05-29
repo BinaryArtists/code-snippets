@@ -2,7 +2,7 @@
 // Initialization and presentation of controller's view
 //
 // IDECodeSnippetCompletionPrefix: view
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetCompletionScopes: [Class Implementation]
 // IDECodeSnippetIdentifier: B592D77B-8132-4691-9E9F-59397E8FB66A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
