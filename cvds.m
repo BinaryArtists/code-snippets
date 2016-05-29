@@ -1,10 +1,12 @@
----
-title: "UICollectionViewDataSource"
-summary: "Placeholders for essential UICollectionViewDataSource delegate methods"
-platform: iOS
-completion-scope: Class Implementation
----
-
+// UICollectionViewDataSource
+// Placeholders for essential UICollectionViewDataSource delegate methods
+//
+// IDECodeSnippetCompletionPrefix: cvds
+// IDECodeSnippetCompletionScopes: [Class Implementation]
+// IDECodeSnippetIdentifier: B17D3EA9-A77C-4562-ACD3-E9AE7538CC84
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 #pragma mark - UICollectionViewDataSource
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView
