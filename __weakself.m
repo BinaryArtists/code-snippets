@@ -4,4 +4,5 @@ summary: "Declare weak reference to self"
 completion-scope: Function or Method
 ---
 
-__weak typeof(self)weakSelf = self;
+__weak typeof(self) weakSelf = self;
+
